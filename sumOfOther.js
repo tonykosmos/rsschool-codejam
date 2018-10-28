@@ -1,4 +1,4 @@
-function sumOfOther(arr = []){
+module.exports = function sumOfOther(arr = []){
     let a = 0;
     let b = 0;
     let newArr = [];
