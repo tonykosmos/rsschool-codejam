@@ -1,0 +1,19 @@
+{
+  "name": "sum-of-others",
+  "version": "1.0.0",
+  "description": "first function",
+  "main": "sumOfOther.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonykosmos/rsschool-codejam.git"
+  },
+  "author": "Anton Kasmouski <a.kosmovskiy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonykosmos/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/tonykosmos/rsschool-codejam#readme"
+}
