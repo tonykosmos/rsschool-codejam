@@ -19,9 +19,13 @@ describe('Array', () => {
         const count = sumOfOther([8, 3, 1]);
         assert.deepEqual(count, [4, 9, 11]);
       });
-      it('1', () => {
+      it('5', () => {
         const count = sumOfOther([5, 8, 1]);
         assert.deepEqual(count, [9, 6, 13]);
+      });
+      it('6', () => {
+        const count = sumOfOther([3, 2, 5]);
+        assert.deepEqual(count, [7, 8, 5]);
       }); 
     
   
